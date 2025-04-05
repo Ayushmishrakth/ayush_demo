@@ -1,2 +1,2 @@
 # ayush_demo
-author ayush
+author ayush (mishra)
